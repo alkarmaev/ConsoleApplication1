@@ -5,4 +5,4 @@
 using namespace std;
 
 bool writeToFileOnce(string fileName, string content, bool rewrite);
-
+bool writeToFileOnce(string * fileName, string * content, bool  rewrite);
