@@ -1,5 +1,5 @@
 //Defs.h: List of definitions for Node class
-
+#include <iostream>
 #pragma once
 
 // Streams should be used for printout info. Stream may be redirected in Microsoft CppUnit
